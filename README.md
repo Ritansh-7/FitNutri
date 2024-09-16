@@ -1,1 +1,1 @@
-# FitNutri
+# Chatbot for Fitness and Nutrition
